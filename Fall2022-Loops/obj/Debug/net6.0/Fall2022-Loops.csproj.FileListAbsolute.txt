@@ -1,0 +1,15 @@
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/bin/Debug/net6.0/Fall2022-Loops
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/bin/Debug/net6.0/Fall2022-Loops.deps.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/bin/Debug/net6.0/Fall2022-Loops.runtimeconfig.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/bin/Debug/net6.0/Fall2022-Loops.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/bin/Debug/net6.0/Fall2022-Loops.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.csproj.AssemblyReference.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.AssemblyInfoInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.AssemblyInfo.cs
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.csproj.CoreCompileInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/refint/Fall2022-Loops.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/Fall2022-Loops.genruntimeconfig.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Loops/Fall2022-Loops/Fall2022-Loops/obj/Debug/net6.0/ref/Fall2022-Loops.dll
